@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=relixardiansyah&label=Profile%20views&color=0e75b6&style=flat" alt="relixardiansyah" /> </p>
 
-- 🌱 I’m currently learning **Laravel,Golang,NodeJS**
+- 🌱 I’m currently learning **Laravel,JupyterNotebook*
 
 - 📫 How to reach me **rikodecoder1@gmail.com**
 
