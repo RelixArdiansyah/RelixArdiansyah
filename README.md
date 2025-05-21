@@ -23,12 +23,14 @@
 
 ---
 
-<h3 align="left">🏅 My Holopin Badges:</h3>
-<p align="left">
+<h3 align="center">🏅 My Holopin Badges</h3>
+
+<div align="center">
   <a href="https://www.holopin.io/@haxsinner">
-    <img src="https://holopin.me/haxsinner" alt="@haxsinner holopin board" width="300"/>
+    <img src="https://holopin.me/haxsinner" alt="@haxsinner holopin board" width="800"/>
   </a>
-</p>
+</div>
+
 
 ---
 
