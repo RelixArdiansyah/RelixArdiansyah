@@ -15,23 +15,18 @@
 
 ---
 
-<h3 align="left">🚀 Achievements & Badges:</h3>
+<h3 align="left">🚀 Achievements & Highlights:</h3>
 
 - 🏅 **Hacktoberfest 2023 Finisher**
-- 🥇 **Top 5 Contributor** in an open-source education platform (simulasi)
-- 👨‍🏫 **Mentor** at Python Bootcamp (simulasi komunitas kampus)
-- 🧠 **Solved 200+ Algorithm Challenges** on platforms like LeetCode & HackerRank
-- 📊 Built a **Motor Price Prediction App** using regression & deployed with Flask
+- 🧠 **Solved 200+ Algorithm Challenges** on LeetCode & HackerRank 
+- 📊 Built a **Motor Price Prediction App** using regression & Flask
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🏅 My Holopin Badges:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/rikoardiansyah" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="rikoardiansyah" height="30" width="30" />
-  </a>
-  <a href="https://instagram.com/ricko_ard1" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ricko_ard1" height="30" width="40" />
+  <a href="https://www.holopin.io/@haxsinner">
+    <img src="https://holopin.me/haxsinner" alt="@haxsinner holopin board" width="300"/>
   </a>
 </p>
 
@@ -57,6 +52,18 @@
 </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=relixardiansyah&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+<h3 align="left">🤝 Connect with Me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/rikoardiansyah" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="rikoardiansyah" height="30" width="30" />
+  </a>
+  <a href="https://instagram.com/ricko_ard1" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ricko_ard1" height="30" width="40" />
+  </a>
 </p>
 
 ---
