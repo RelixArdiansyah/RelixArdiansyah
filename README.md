@@ -7,11 +7,21 @@
 
 ---
 
-- 🔭 I’m currently working on **machine learning & web-based backend systems**
+- 🔭 I’m currently working on **Machine Learning & Backend Systems**
 - 🌱 I’m currently learning **Laravel** and **Jupyter Notebook**
 - 💬 Ask me about **Python, Flask, REST API, and SQL**
 - 📫 Reach me at **rikodecoder1@gmail.com**
-- ⚡ Fun fact: I enjoy solving real-world problems with code
+- ⚡ Fun fact: I love turning coffee into code ☕💻
+
+---
+
+<h3 align="left">🚀 Achievements & Badges:</h3>
+
+- 🏅 **Hacktoberfest 2023 Finisher**
+- 🥇 **Top 5 Contributor** in an open-source education platform (simulasi)
+- 👨‍🏫 **Mentor** at Python Bootcamp (simulasi komunitas kampus)
+- 🧠 **Solved 200+ Algorithm Challenges** on platforms like LeetCode & HackerRank
+- 📊 Built a **Motor Price Prediction App** using regression & deployed with Flask
 
 ---
 
@@ -27,7 +37,7 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>
@@ -41,9 +51,9 @@
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left">📈 GitHub Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=relixardiansyah&show_icons=true&locale=en&theme=tokyonight" alt="relixardiansyah" />
+  <img src="https://github-readme-stats.vercel.app/api?username=relixardiansyah&show_icons=true&theme=tokyonight" alt="relixardiansyah" />
 </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=relixardiansyah&layout=compact&theme=tokyonight" alt="Top Languages" />
@@ -51,7 +61,7 @@
 
 ---
 
-<h3 align="left">Support:</h3>
+<h3 align="left">☕ Support:</h3>
 <p>
-  ☕ If you like my work, consider buying me a coffee! (Add your donation link if any)
+  If you like my work, feel free to connect or support me with a virtual coffee!
 </p>
