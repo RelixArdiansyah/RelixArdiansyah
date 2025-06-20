@@ -72,5 +72,5 @@
 
 <h3 align="left">☕ Support:</h3>
 <p>
-  If you like my work, feel free to connect or support me with a virtual coffee!
+  If you like my work, feel free to connect me with a virtual coffee!
 </p>
