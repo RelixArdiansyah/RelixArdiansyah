@@ -50,9 +50,6 @@
 
 <h3 align="left">📈 GitHub Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=relixardiansyah&show_icons=true&theme=tokyonight" alt="relixardiansyah" />
-</p>
-<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=relixardiansyah&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
