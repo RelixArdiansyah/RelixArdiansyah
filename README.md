@@ -17,7 +17,6 @@
 
 <h3 align="left">🚀 Achievements & Highlights:</h3>
 
-- 🏅 **Hacktoberfest 2023 Finisher**
 - 🧠 **Solved 200+ Algorithm Challenges** on LeetCode & HackerRank 
 - 📊 Built a **Motor Price Prediction App** using regression & Flask
 
